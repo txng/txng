@@ -1,4 +1,4 @@
-## Hello! My mame is Andy, a passionate individual who has a passion for technology and Information Security.
+## Hello! My name is Andy, a passionate individual who has a keen interest in Information Security.
 
 ### Certifications
 <p align="left">
