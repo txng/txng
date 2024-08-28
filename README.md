@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hello! My mame is Andy, a passionate individual who has a passion for technology and Information Security.
 
-<!--
-**txng/txng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certifications
+<p align="left">
+<a href="#">
+  <img src="/Images/Certifications/Sec+.png" alt="Security+" style="vertical-align:top; margin:6px 4px">
+</a> 
+<a href="#">
+  <img src="/Images/Certifications/Net+.png" alt="Network+" style="vertical-align:top; margin:6px 4px">
+</a> 
+</p>
