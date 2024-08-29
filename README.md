@@ -8,7 +8,6 @@ I am a recent graduate with a profound interest in technology and information se
 My journey in technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -20,7 +19,7 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 
 ### Vulnerability Management
 <div>
-    <img src="https://img.shields.io/badge/-Nessus-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-1679A7?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Certifications
