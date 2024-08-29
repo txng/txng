@@ -19,7 +19,7 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 
 ### Vulnerability Management
 <div>
-    <img src="https://img.shields.io/badge/-Nessus-1679A7?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-1679A7?&style=for-the-badge&logo=Nessus&logoColor=white" />
 </div>
 
 ## Certifications
