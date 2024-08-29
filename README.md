@@ -18,7 +18,7 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 
 ## Tools
 
-### Network
+### Vulnerability Management
 <div>
     <img src="https://img.shields.io/badge/-Nessus-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
