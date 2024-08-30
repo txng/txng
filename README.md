@@ -11,9 +11,9 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Nessus                                        | <a href="https://github.com/txng/VM-Lab">VM Lab</a>|
-| Metasploitable 2                              | <a href="https://github.com/txng/VM-Lab">VM Lab</a>|
-
+| Python                                        | <a href="https://github.com/txng/Random_Password_Generator">Random Password Generator</a>|
+| Nessus                                        | <a href="https://github.com/txng/Nessus_on_Metasploitable 2">Nessus on Metasploitable 2</a>|
+| Metasploitable 2                              | <a href="https://github.com/txng/Nessus_on_Metasploitable 2">Nessus on Metasploitable 2</a>|
 
 ## Tools
 
@@ -30,4 +30,5 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 </div>
 
 ## Projects
-- Vulnerability Management Using Nessus & Metasploitable 2
+- Nessus on Metasploitable 2
+- Random Password Generator
